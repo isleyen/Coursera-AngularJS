@@ -1,0 +1,15 @@
+.red{
+    color: red;
+    border-color: red;
+}
+
+.green{
+    color: green;
+
+}
+.emptyTxtBox{
+  border-color: red;
+}
+.filledTxtBox{
+  border-color: green;
+}
